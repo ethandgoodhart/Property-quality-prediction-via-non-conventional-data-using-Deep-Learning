@@ -1,4 +1,4 @@
-Property quality prediction via non-conventional data using Deep Learning
+## Property quality prediction via non-conventional data using Deep Learning
 
 Accurately deciding between travel accommodations is both a challenging and
 time-consuming task with significant room for improvement. To help address this
